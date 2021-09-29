@@ -1,0 +1,1458 @@
+Battery History (0% used, 396 used of 4096KB, 4 strings using 116):
+                    0 (19) RESET:TIME: 2021-09-17-10-17-02
+                    0 (1) 040 status=discharging health=good plug=none temp=296 volt=3786 current=-391 ap_temp=32 pa_temp=31 skin_temp=31 sub_batt_temp=0 -nr_connected -wifi_ap -otg -high_speaker_volume misc_event=0x10000 online=1 current_event=0x40000000 txshare_event=0x0 charge=1454 modemRailChargemAh=0 wifiRailChargemAh=0 +running +wake_lock +wifi_radio +screen phone_signal_strength=great brightness=dim +wifi wifi_signal_strength=3 wifi_suppl=completed +ble_scan
+                    0 (2) 040 top=u0a309:"com.ulangi"
+                    0 (2) 040 user=0:"0"
+                    0 (2) 040 userfg=0:"0"
+                 +2ms (2) 040 stats=0:"wakelock-change"
+                +61ms (2) 040 stats=0:"dump"
+             +1s823ms (2) 039 charge=1450
+                 Details: cpu=7140u+7840s
+                          /proc/stat=7120 usr, 7160 sys, 0 io, 1790 irq, 500 sirq, 90690 idle (15,4% of 17m 52s 600ms), PlatformIdleStat null
+, SubsystemPowerState null
+             +1s825ms (2) 039 stats=0:"wakelock-change"
+             +9s284ms (3) 039 current=-398 ap_temp=32 pa_temp=31 skin_temp=31 sub_batt_temp=0
+            +13s446ms (2) 039 stats=0:"dump"
+
+Per-PID Stats:
+  PID 1697 wake time: +17ms
+  PID 1697 wake time: +5ms
+
+Daily stats:
+  Current start time: 2021-09-17-08-44-00
+  Next min deadline: 2021-09-18-01-00-00
+  Next max deadline: 2021-09-18-03-00-00
+  Current daily discharge step durations:
+    #0: +12m4s404ms to 39 (power-save-off, device-idle-off)
+    #1: +8m50s840ms to 40 (power-save-off, device-idle-off)
+    #2: +4m32s339ms to 41 (screen-on, power-save-off, device-idle-off)
+    #3: +2m31s302ms to 42 (screen-on, power-save-off, device-idle-off)
+    #4: +9m4s358ms to 43 (screen-on, power-save-off, device-idle-off)
+    #5: +8m4s93ms to 44 (screen-on, power-save-off, device-idle-off)
+    #6: +10m16s789ms to 45 (power-save-off, device-idle-off)
+    #7: +6m2s985ms to 46 (power-save-off, device-idle-off)
+    #8: +2m31s212ms to 47 (screen-on, power-save-off, device-idle-off)
+      Discharge total time: 11h 50m 48s 0ms  (from 9 steps)
+      Discharge screen on time: 8h 54m 26s 0ms  (from 5 steps)
+  Current daily charge step durations:
+    #0: +1m31s516ms to 49 (screen-on, power-save-off, device-idle-off)
+    #1: +1m32s450ms to 48 (screen-on, power-save-off, device-idle-off)
+    #2: +1m32s466ms to 47 (screen-on, power-save-off, device-idle-off)
+    #3: +1m22s166ms to 46 (screen-on, power-save-off, device-idle-off)
+    #4: +1m32s427ms to 45 (screen-on, power-save-off, device-idle-off)
+    #5: +1m22s173ms to 44 (screen-on, power-save-off, device-idle-off)
+    #6: +1m22s159ms to 43 (screen-on, power-save-off, device-idle-off)
+    #7: +1m22s129ms to 42 (screen-on, power-save-off, device-idle-off)
+    #8: +1m22s153ms to 41 (screen-on, power-save-off, device-idle-off)
+    #9: +1m22s190ms to 40 (screen-on, power-save-off, device-idle-off)
+    #10: +1m22s186ms to 39 (screen-on, power-save-off, device-idle-off)
+    #11: +1m22s184ms to 38 (screen-on, power-save-off, device-idle-off)
+    #12: +1m22s151ms to 37 (screen-on, power-save-off, device-idle-off)
+    #13: +1m42s712ms to 36 (screen-on, power-save-off, device-idle-off)
+      Charge total time: 2h 24m 10s 400ms  (from 14 steps)
+      Charge screen on time: 2h 24m 10s 400ms  (from 14 steps)
+    Package changes:
+      Update org.mozilla.firefox vers=2015832083
+      Update org.mozilla.firefox vers=2015832083
+      Update org.mozilla.firefox vers=2015832083
+      Update org.mozilla.firefox vers=2015832083
+      Update com.google.android.apps.youtube.music vers=44551240
+      Update com.google.android.apps.youtube.music vers=44551240
+      Update com.google.android.apps.youtube.music vers=44551240
+      Update com.google.android.apps.youtube.music vers=44551240
+      Update com.touchtype.swiftkey vers=956760192
+      Update com.touchtype.swiftkey vers=956760192
+      Update com.touchtype.swiftkey vers=956760192
+      Update com.touchtype.swiftkey vers=956760192
+      Update com.microsoft.office.outlook vers=42134811
+      Update com.microsoft.office.outlook vers=42134811
+      Update com.microsoft.office.outlook vers=42134811
+      Update com.microsoft.office.outlook vers=42134811
+      Update org.fdroid.fdroid vers=1012051
+      Update org.fdroid.fdroid vers=1012051
+      Update org.fdroid.fdroid vers=1012051
+      Update org.fdroid.fdroid vers=1012051
+      Update de.kaffeemitkoffein.tinyweatherforecastgermany vers=29
+      Update de.kaffeemitkoffein.tinyweatherforecastgermany vers=29
+      Update de.kaffeemitkoffein.tinyweatherforecastgermany vers=29
+      Update de.kaffeemitkoffein.tinyweatherforecastgermany vers=29
+      Update org.schabi.newpipe vers=975
+      Update org.schabi.newpipe vers=975
+      Update org.schabi.newpipe vers=975
+      Update org.schabi.newpipe vers=975
+      Update dev.jideguru.flutterEbookApp vers=2
+      Update dev.jideguru.flutterEbookApp vers=2
+      Update dev.jideguru.flutterEbookApp vers=2
+      Update dev.jideguru.flutterEbookApp vers=2
+      Update host.exp.exponent vers=155
+      Update host.exp.exponent vers=155
+      Update host.exp.exponent vers=155
+      Update host.exp.exponent vers=155
+      Update com.ulangi vers=4194424
+      Update com.ulangi vers=4194424
+      Update com.ulangi vers=4194424
+      Update com.ulangi vers=4194424
+      Update com.davituri.timetable vers=2
+      Update com.davituri.timetable vers=2
+      Update com.davituri.timetable vers=2
+      Update com.davituri.timetable vers=2
+      Update sworkitapp.sworkit.com vers=100703019
+      Update sworkitapp.sworkit.com vers=100703019
+      Update sworkitapp.sworkit.com vers=100703019
+      Update sworkitapp.sworkit.com vers=100703019
+      Update org.onepointzero.metalreleases vers=130
+      Update org.onepointzero.metalreleases vers=130
+      Update org.onepointzero.metalreleases vers=130
+      Update org.onepointzero.metalreleases vers=130
+      Update com.kurtlourens.no_mans_sky_recipes vers=1631137132
+      Update com.kurtlourens.no_mans_sky_recipes vers=1631137132
+      Update com.kurtlourens.no_mans_sky_recipes vers=1631137132
+      Update com.kurtlourens.no_mans_sky_recipes vers=1631137132
+      Update com.justwatch.justwatch vers=2018442
+      Update com.justwatch.justwatch vers=2018442
+      Update com.justwatch.justwatch vers=2018442
+      Update com.justwatch.justwatch vers=2018442
+      Update com.untappdllc.app vers=2147102721
+      Update com.untappdllc.app vers=2147102721
+      Update com.untappdllc.app vers=2147102721
+      Update com.untappdllc.app vers=2147102721
+  Daily from 2021-09-16-12-11-50 to 2020-01-01-13-00-20:
+    Discharge step durations:
+      #0: +22m11s308ms to 1 (screen-on, power-save-off, device-idle-off)
+      #1: +2h0m1s449ms to 3 (screen-on, power-save-off, device-idle-off)
+      #2: +30s264ms to 4 (screen-on, power-save-off, device-idle-off)
+      #3: +30s224ms to 5 (power-save-off, device-idle-off)
+        Discharge total time: 2d 11h 40m 31s 100ms  (from 4 steps)
+        Discharge screen on time: 3d 7h 17m 14s 0ms  (from 3 steps)
+    Package changes:
+      Update at.stefanhuber.instrumentation vers=0
+      Update at.stefanhuber.instrumentation vers=0
+      Update at.stefanhuber.contactappnative vers=0
+      Update at.stefanhuber.contactappnative vers=0
+      Update at.stefanhuber.contactappcapacitor vers=0
+      Update at.stefanhuber.contactappcapacitor vers=0
+      Update com.contactappreactnative vers=0
+      Update com.contactappreactnative vers=0
+      Update com.thomasdorfer.contactappflutter vers=0
+      Update com.thomasdorfer.contactappflutter vers=0
+      Update at.stefanhuber.geckowrapper vers=0
+      Update at.stefanhuber.geckowrapper vers=0
+      Update at.stefanhuber.webviewwrapper vers=0
+      Update at.stefanhuber.webviewwrapper vers=0
+      Update at.stefanhuber.contactappcapacitor vers=1
+      Update at.stefanhuber.contactappcapacitor vers=1
+      Update at.stefanhuber.contactappcapacitor vers=1
+      Update at.stefanhuber.contactappcapacitor vers=1
+      Update com.thomasdorfer.contactappflutter vers=1
+      Update com.thomasdorfer.contactappflutter vers=1
+      Update com.thomasdorfer.contactappflutter vers=1
+      Update com.thomasdorfer.contactappflutter vers=1
+      Update at.stefanhuber.contactappnative vers=1
+      Update at.stefanhuber.contactappnative vers=1
+      Update at.stefanhuber.contactappnative vers=1
+      Update at.stefanhuber.contactappnative vers=1
+      Update com.contactappreactnative vers=1
+      Update com.contactappreactnative vers=1
+      Update com.contactappreactnative vers=1
+      Update com.contactappreactnative vers=1
+      Update at.stefanhuber.geckowrapper vers=1
+      Update at.stefanhuber.geckowrapper vers=1
+      Update at.stefanhuber.geckowrapper vers=1
+      Update at.stefanhuber.geckowrapper vers=1
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.webviewwrapper vers=1
+      Update at.stefanhuber.webviewwrapper vers=1
+      Update at.stefanhuber.webviewwrapper vers=1
+      Update at.stefanhuber.webviewwrapper vers=1
+      Update at.stefanhuber.instrumentation vers=0
+      Update at.stefanhuber.instrumentation vers=0
+      Update at.stefanhuber.contactappnative vers=0
+      Update at.stefanhuber.contactappnative vers=0
+      Update at.stefanhuber.contactappcapacitor vers=0
+      Update at.stefanhuber.contactappcapacitor vers=0
+      Update com.contactappreactnative vers=0
+      Update com.contactappreactnative vers=0
+      Update com.thomasdorfer.contactappflutter vers=0
+      Update com.thomasdorfer.contactappflutter vers=0
+      Update at.stefanhuber.geckowrapper vers=0
+      Update at.stefanhuber.geckowrapper vers=0
+      Update at.stefanhuber.webviewwrapper vers=0
+      Update at.stefanhuber.webviewwrapper vers=0
+      Update at.stefanhuber.contactappcapacitor vers=1
+      Update at.stefanhuber.contactappcapacitor vers=1
+      Update at.stefanhuber.contactappcapacitor vers=1
+      Update at.stefanhuber.contactappcapacitor vers=1
+      Update com.thomasdorfer.contactappflutter vers=1
+      Update com.thomasdorfer.contactappflutter vers=1
+      Update com.thomasdorfer.contactappflutter vers=1
+      Update com.thomasdorfer.contactappflutter vers=1
+      Update at.stefanhuber.contactappnative vers=1
+      Update at.stefanhuber.contactappnative vers=1
+      Update at.stefanhuber.contactappnative vers=1
+      Update at.stefanhuber.contactappnative vers=1
+      Update com.contactappreactnative vers=1
+      Update com.contactappreactnative vers=1
+      Update com.contactappreactnative vers=1
+      Update com.contactappreactnative vers=1
+      Update at.stefanhuber.geckowrapper vers=1
+      Update at.stefanhuber.geckowrapper vers=1
+      Update at.stefanhuber.geckowrapper vers=1
+      Update at.stefanhuber.geckowrapper vers=1
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.webviewwrapper vers=1
+      Update at.stefanhuber.webviewwrapper vers=1
+      Update at.stefanhuber.webviewwrapper vers=1
+      Update at.stefanhuber.webviewwrapper vers=1
+  Daily from 2021-09-10-20-27-57 to 2020-01-01-13-00-07:
+    Discharge step durations:
+      #0: +14m37s360ms to 74 (screen-on, power-save-off, device-idle-off)
+      #1: +13m6s496ms to 75 (screen-on, power-save-off, device-idle-off)
+      #2: +13m6s651ms to 76 (screen-on, power-save-off, device-idle-off)
+      #3: +13m6s670ms to 77 (power-save-off, device-idle-off)
+      #4: +13m37s29ms to 78 (screen-on, power-save-off, device-idle-off)
+      #5: +8m34s389ms to 79 (screen-on, power-save-off, device-idle-off)
+      #6: +7m33s858ms to 80 (screen-on, power-save-off, device-idle-off)
+      #7: +7m33s800ms to 81 (screen-on, power-save-off, device-idle-off)
+      #8: +8m4s199ms to 82 (screen-on, power-save-off, device-idle-off)
+        Discharge total time: 18h 23m 47s 200ms  (from 9 steps)
+        Discharge screen on time: 17h 57m 52s 200ms  (from 8 steps)
+  Daily from 2021-09-10-08-46-10 to 2020-01-01-13-00-06:
+    Discharge step durations:
+      #0: +17m8s778ms to 60 (screen-on, power-save-off, device-idle-off)
+      #1: +15m37s989ms to 61 (screen-on, power-save-off, device-idle-off)
+      #2: +15m37s956ms to 62 (screen-on, power-save-off, device-idle-off)
+      #3: +15m37s936ms to 63 (screen-on, power-save-off, device-idle-off)
+      #4: +15m7s771ms to 64 (screen-on, power-save-off, device-idle-off)
+      #5: +14m37s370ms to 65 (screen-on, power-save-off, device-idle-off)
+      #6: +12m36s403ms to 66 (screen-on, power-save-off, device-idle-off)
+      #7: +14m37s473ms to 67 (screen-on, power-save-off, device-idle-off)
+      #8: +14m37s454ms to 68 (screen-on, power-save-off, device-idle-off)
+      #9: +14m7s351ms to 69 (screen-on, power-save-off, device-idle-off)
+      #10: +14m7s174ms to 70 (screen-on, power-save-off, device-idle-off)
+      #11: +12m36s302ms to 71 (screen-on, power-save-off, device-idle-off)
+      #12: +13m6s648ms to 72 (screen-on, power-save-off, device-idle-off)
+      #13: +11m5s626ms to 73 (screen-on, power-save-off, device-idle-off)
+      #14: +12m36s428ms to 74 (screen-on, power-save-off, device-idle-off)
+      #15: +10m5s76ms to 75 (screen-on, power-save-off, device-idle-off)
+      #16: +10m5s188ms to 76 (screen-on, power-save-off, device-idle-off)
+      #17: +8m4s41ms to 77 (screen-on, power-save-off, device-idle-off)
+      #18: +14m3s230ms to 78 (power-save-off, device-idle-off)
+      #19: +6m33s314ms to 79 (screen-on, power-save-off, device-idle-off)
+      #20: +7m3s485ms to 80 (screen-on, power-save-off, device-idle-off)
+      #21: +7m3s610ms to 81 (screen-on, power-save-off, device-idle-off)
+      #22: +6m33s176ms to 82 (screen-on, power-save-off, device-idle-off)
+      #23: +7m3s536ms to 83 (screen-on, power-save-off, device-idle-off)
+      #24: +6m33s276ms to 84 (screen-on, power-save-off, device-idle-off)
+      #25: +7m3s427ms to 85 (screen-on, power-save-off, device-idle-off)
+      #26: +6m3s28ms to 86 (screen-on, power-save-off, device-idle-off)
+        Discharge total time: 19h 6m 29s 0ms  (from 27 steps)
+        Discharge screen on time: 18h 56m 31s 600ms  (from 26 steps)
+    Charge step durations:
+      #0: +3m4s896ms to 88 (screen-on, power-save-off, device-idle-off)
+      #1: +4m26s888ms to 87 (screen-on, power-save-off, device-idle-off)
+        Charge total time: 6h 16m 29s 200ms  (from 2 steps)
+        Charge screen on time: 6h 16m 29s 200ms  (from 2 steps)
+    Package changes:
+      Update com.thomasdorfer.contactappflutter vers=1
+      Update com.thomasdorfer.contactappflutter vers=1
+      Update com.thomasdorfer.contactappflutter vers=1
+      Update com.thomasdorfer.contactappflutter vers=1
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.instrumentation.test vers=0
+      Update at.stefanhuber.instrumentation.test vers=0
+      Update at.stefanhuber.instrumentation.test vers=0
+      Update at.stefanhuber.instrumentation.test vers=0
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.instrumentation.test vers=0
+      Update at.stefanhuber.instrumentation.test vers=0
+      Update at.stefanhuber.instrumentation.test vers=0
+      Update at.stefanhuber.instrumentation.test vers=0
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.instrumentation.test vers=0
+      Update at.stefanhuber.instrumentation.test vers=0
+      Update at.stefanhuber.instrumentation.test vers=0
+      Update at.stefanhuber.instrumentation.test vers=0
+      Update com.thomasdorfer.contactappflutter vers=0
+      Update com.thomasdorfer.contactappflutter vers=0
+      Update com.thomasdorfer.contactappflutter vers=1
+      Update com.thomasdorfer.contactappflutter vers=1
+      Update com.thomasdorfer.contactappflutter vers=1
+      Update com.thomasdorfer.contactappflutter vers=1
+      Update com.netflix.mediaclient vers=35583
+      Update com.netflix.mediaclient vers=35583
+      Update com.netflix.mediaclient vers=35583
+      Update com.netflix.mediaclient vers=35583
+      Update com.samsung.android.themestore vers=520122100
+      Update com.samsung.android.themestore vers=520122100
+      Update com.samsung.android.themestore vers=520122100
+      Update com.samsung.android.themestore vers=520122100
+      Update com.samsung.android.themestore vers=520122100
+      Update com.samsung.android.themestore vers=520122100
+  Daily from 2021-08-19-13-39-51 to 2021-09-10-08-46-10:
+    Package changes:
+      Update com.thomasdorfer.contactappflutter vers=0
+      Update com.thomasdorfer.contactappflutter vers=0
+  Daily from 2021-09-09-19-34-30 to 2020-01-01-13-00-06:
+    Discharge step durations:
+      #0: +13m6s614ms to 77 (screen-on, power-save-off, device-idle-off)
+      #1: +13m6s753ms to 78 (screen-on, power-save-off, device-idle-off)
+      #2: +12m36s508ms to 79 (screen-on, power-save-off, device-idle-off)
+      #3: +11m35s984ms to 80 (screen-on, power-save-off, device-idle-off)
+      #4: +12m6s32ms to 81 (screen-on, power-save-off, device-idle-off)
+      #5: +9m34s772ms to 82 (screen-on, power-save-off, device-idle-off)
+      #6: +6m33s305ms to 83 (screen-on, power-save-off, device-idle-off)
+      #7: +7m3s635ms to 84 (screen-on, power-save-off, device-idle-off)
+      #8: +6m33s436ms to 85 (screen-on, power-save-off, device-idle-off)
+      #9: +7m3s603ms to 86 (screen-on, power-save-off, device-idle-off)
+      #10: +6m33s392ms to 87 (screen-on, power-save-off, device-idle-off)
+      #11: +7m14s453ms to 88 (power-save-off, device-idle-off)
+      #12: +6m50s520ms to 89 (power-save-off, device-idle-off)
+      #13: +5m2s527ms to 90 (screen-on, power-save-off, device-idle-off)
+      #14: +7m43s948ms to 91 (power-save-off, device-idle-off)
+      #15: +5m3s559ms to 92 (power-save-off, device-idle-off)
+      #16: +2m0s979ms to 93 (screen-on, power-save-off, device-idle-off)
+      #17: +1m30s746ms to 94 (screen-on, power-save-off, device-idle-off)
+      #18: +1m30s805ms to 95 (screen-on, power-save-off, device-idle-off)
+      #19: +1m30s725ms to 96 (screen-on, power-save-off, device-idle-off)
+      #20: +1m30s768ms to 97 (screen-on, power-save-off, device-idle-off)
+      #21: +1m0s539ms to 98 (screen-on, power-save-off, device-idle-off)
+        Discharge total time: 11h 7m 41s 800ms  (from 22 steps)
+        Discharge screen on time: 11h 6m 46s 200ms  (from 18 steps)
+    Charge step durations:
+      #0: +1m1s606ms to 100 (screen-on, power-save-off, device-idle-off)
+      #1: +1m42s703ms to 99 (screen-on, power-save-off, device-idle-off)
+      #2: +1m42s694ms to 98 (screen-on, power-save-off, device-idle-off)
+      #3: +1m32s429ms to 97 (screen-on, power-save-off, device-idle-off)
+      #4: +1m32s400ms to 96 (screen-on, power-save-off, device-idle-off)
+      #5: +1m32s398ms to 95 (screen-on, power-save-off, device-idle-off)
+      #6: +4m16s777ms to 94 (screen-on, power-save-off, device-idle-off)
+      #7: +6m9s735ms to 93 (screen-on, power-save-off, device-idle-off)
+      #8: +6m30s167ms to 92 (screen-on, power-save-off, device-idle-off)
+      #9: +5m38s898ms to 91 (screen-on, power-save-off, device-idle-off)
+      #10: +4m47s563ms to 90 (screen-on, power-save-off, device-idle-off)
+      #11: +3m45s936ms to 89 (screen-on, power-save-off, device-idle-off)
+      #12: +3m4s883ms to 88 (screen-on, power-save-off, device-idle-off)
+      #13: +5m28s581ms to 87 (screen-on, power-save-off, device-idle-off)
+        Charge total time: 5h 48m 25s 500ms  (from 14 steps)
+        Charge screen on time: 5h 48m 25s 500ms  (from 14 steps)
+    Package changes:
+      Update at.stefanhuber.contactappcapacitor vers=1
+      Update at.stefanhuber.contactappcapacitor vers=1
+      Update at.stefanhuber.contactappcapacitor vers=1
+      Update at.stefanhuber.contactappcapacitor vers=1
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.instrumentation.test vers=0
+      Update at.stefanhuber.instrumentation.test vers=0
+      Update at.stefanhuber.instrumentation.test vers=0
+      Update at.stefanhuber.instrumentation.test vers=0
+      Update com.thomasdorfer.contactappflutter vers=1
+      Update com.thomasdorfer.contactappflutter vers=1
+      Update com.thomasdorfer.contactappflutter vers=1
+      Update com.thomasdorfer.contactappflutter vers=1
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.instrumentation.test vers=0
+      Update at.stefanhuber.instrumentation.test vers=0
+      Update at.stefanhuber.instrumentation.test vers=0
+      Update at.stefanhuber.instrumentation.test vers=0
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.instrumentation.test vers=0
+      Update at.stefanhuber.instrumentation.test vers=0
+      Update at.stefanhuber.instrumentation.test vers=0
+      Update at.stefanhuber.instrumentation.test vers=0
+      Update com.thomasdorfer.contactappflutter vers=0
+      Update com.thomasdorfer.contactappflutter vers=0
+      Update at.stefanhuber.contactappcapacitor vers=0
+      Update at.stefanhuber.contactappcapacitor vers=0
+      Update com.contactappreactnative vers=0
+      Update com.contactappreactnative vers=0
+      Update at.stefanhuber.contactappnative vers=0
+      Update at.stefanhuber.contactappnative vers=0
+      Update at.stefanhuber.instrumentation vers=0
+      Update at.stefanhuber.instrumentation vers=0
+      Update at.stefanhuber.contactappcapacitor vers=1
+      Update at.stefanhuber.contactappcapacitor vers=1
+      Update at.stefanhuber.contactappcapacitor vers=1
+      Update at.stefanhuber.contactappcapacitor vers=1
+      Update com.thomasdorfer.contactappflutter vers=1
+      Update com.thomasdorfer.contactappflutter vers=1
+      Update com.thomasdorfer.contactappflutter vers=1
+      Update com.thomasdorfer.contactappflutter vers=1
+      Update at.stefanhuber.contactappnative vers=1
+      Update at.stefanhuber.contactappnative vers=1
+      Update at.stefanhuber.contactappnative vers=1
+      Update at.stefanhuber.contactappnative vers=1
+      Update com.contactappreactnative vers=1
+      Update com.contactappreactnative vers=1
+      Update com.contactappreactnative vers=1
+      Update com.contactappreactnative vers=1
+      Update at.stefanhuber.geckowrapper vers=1
+      Update at.stefanhuber.geckowrapper vers=1
+      Update at.stefanhuber.geckowrapper vers=1
+      Update at.stefanhuber.geckowrapper vers=1
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.webviewwrapper vers=1
+      Update at.stefanhuber.webviewwrapper vers=1
+      Update at.stefanhuber.webviewwrapper vers=1
+      Update at.stefanhuber.webviewwrapper vers=1
+      Update org.chromium.webapk.a9c9fb981f28e7b30_v2 vers=1
+      Update org.chromium.webapk.a9c9fb981f28e7b30_v2 vers=1
+      Update org.chromium.webapk.a9c9fb981f28e7b30_v2 vers=1
+      Update org.chromium.webapk.a9c9fb981f28e7b30_v2 vers=1
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.instrumentation.test vers=0
+      Update at.stefanhuber.instrumentation.test vers=0
+      Update at.stefanhuber.instrumentation.test vers=0
+      Update at.stefanhuber.instrumentation.test vers=0
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.instrumentation.test vers=0
+      Update at.stefanhuber.instrumentation.test vers=0
+      Update at.stefanhuber.instrumentation.test vers=0
+      Update at.stefanhuber.instrumentation.test vers=0
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.instrumentation.test vers=0
+      Update at.stefanhuber.instrumentation.test vers=0
+      Update at.stefanhuber.instrumentation.test vers=0
+      Update at.stefanhuber.instrumentation.test vers=0
+      Update at.stefanhuber.instrumentation vers=0
+      Update at.stefanhuber.instrumentation vers=0
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.instrumentation.test vers=0
+      Update at.stefanhuber.instrumentation.test vers=0
+      Update at.stefanhuber.instrumentation.test vers=0
+      Update at.stefanhuber.instrumentation.test vers=0
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.instrumentation.test vers=0
+      Update at.stefanhuber.instrumentation.test vers=0
+      Update at.stefanhuber.instrumentation.test vers=0
+      Update at.stefanhuber.instrumentation.test vers=0
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.instrumentation.test vers=0
+      Update at.stefanhuber.instrumentation.test vers=0
+      Update at.stefanhuber.instrumentation.test vers=0
+      Update at.stefanhuber.instrumentation.test vers=0
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.instrumentation.test vers=0
+      Update at.stefanhuber.instrumentation.test vers=0
+      Update at.stefanhuber.instrumentation.test vers=0
+      Update at.stefanhuber.instrumentation.test vers=0
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.instrumentation.test vers=0
+      Update at.stefanhuber.instrumentation.test vers=0
+      Update at.stefanhuber.instrumentation.test vers=0
+      Update at.stefanhuber.instrumentation.test vers=0
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.instrumentation.test vers=0
+      Update at.stefanhuber.instrumentation.test vers=0
+      Update at.stefanhuber.instrumentation.test vers=0
+      Update at.stefanhuber.instrumentation.test vers=0
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.instrumentation.test vers=0
+      Update at.stefanhuber.instrumentation.test vers=0
+      Update at.stefanhuber.instrumentation.test vers=0
+      Update at.stefanhuber.instrumentation.test vers=0
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.instrumentation.test vers=0
+      Update at.stefanhuber.instrumentation.test vers=0
+      Update at.stefanhuber.instrumentation.test vers=0
+      Update at.stefanhuber.instrumentation.test vers=0
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.instrumentation.test vers=0
+      Update at.stefanhuber.instrumentation.test vers=0
+      Update at.stefanhuber.instrumentation.test vers=0
+      Update at.stefanhuber.instrumentation.test vers=0
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.instrumentation.test vers=0
+      Update at.stefanhuber.instrumentation.test vers=0
+      Update at.stefanhuber.instrumentation.test vers=0
+      Update at.stefanhuber.instrumentation.test vers=0
+      Update at.stefanhuber.instrumentation vers=0
+      Update at.stefanhuber.instrumentation vers=0
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.instrumentation vers=1
+  Daily from 2021-09-09-11-28-23 to 2020-01-01-13-00-06:
+    Package changes:
+      Update com.samsung.android.mobileservice vers=1220100011
+      Update com.samsung.android.mobileservice vers=1220100011
+      Update com.samsung.android.mobileservice vers=1220100011
+      Update com.samsung.android.mobileservice vers=1220100011
+      Update com.google.mainline.telemetry vers=302200201
+      Update com.google.mainline.telemetry vers=302200201
+      Update com.google.mainline.telemetry vers=302200201
+      Update com.google.mainline.telemetry vers=302200201
+      Update com.linkedin.android vers=152201
+      Update com.linkedin.android vers=152201
+      Update com.linkedin.android vers=152201
+      Update com.linkedin.android vers=152201
+      Update com.spotify.music vers=77602506
+      Update com.spotify.music vers=77602506
+      Update com.spotify.music vers=77602506
+      Update com.spotify.music vers=77602506
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.instrumentation.test vers=0
+      Update at.stefanhuber.instrumentation.test vers=0
+      Update at.stefanhuber.instrumentation.test vers=0
+      Update at.stefanhuber.instrumentation.test vers=0
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.instrumentation.test vers=0
+      Update at.stefanhuber.instrumentation.test vers=0
+      Update at.stefanhuber.instrumentation.test vers=0
+      Update at.stefanhuber.instrumentation.test vers=0
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.instrumentation.test vers=0
+      Update at.stefanhuber.instrumentation.test vers=0
+      Update at.stefanhuber.instrumentation.test vers=0
+      Update at.stefanhuber.instrumentation.test vers=0
+      Update com.sec.android.app.samsungapps vers=453005110
+      Update com.sec.android.app.samsungapps vers=453005110
+      Update com.sec.android.app.samsungapps vers=453005110
+      Update com.sec.android.app.samsungapps vers=453005110
+      Update com.sec.android.app.samsungapps vers=453005110
+      Update com.sec.android.app.samsungapps vers=453005110
+      Update com.google.android.gm vers=62800753
+      Update com.google.android.gm vers=62800753
+      Update com.google.android.gm vers=62800753
+      Update com.google.android.gm vers=62800753
+      Update com.google.android.youtube vers=1523049920
+      Update com.google.android.youtube vers=1523049920
+      Update com.google.android.youtube vers=1523049920
+      Update com.google.android.youtube vers=1523049920
+      Update com.google.android.apps.maps vers=1066149126
+      Update com.google.android.apps.maps vers=1066149126
+      Update com.google.android.apps.maps vers=1066149126
+      Update com.google.android.apps.maps vers=1066149126
+      Update com.microsoft.appmanager vers=2710304
+      Update com.microsoft.appmanager vers=2710304
+      Update com.microsoft.appmanager vers=2710304
+      Update com.microsoft.appmanager vers=2710304
+      Update com.google.android.apps.turbo vers=10240805
+      Update com.google.android.apps.turbo vers=10240805
+      Update com.google.android.apps.turbo vers=10240805
+      Update com.google.android.apps.turbo vers=10240805
+      Update com.sec.spp.push vers=331300100
+      Update com.sec.spp.push vers=331300100
+      Update com.sec.spp.push vers=331300100
+      Update com.sec.spp.push vers=331300100
+      Update com.google.android.ims vers=30494724
+      Update com.google.android.ims vers=30494724
+      Update com.google.android.ims vers=30494724
+      Update com.google.android.ims vers=30494724
+      Update com.touchtype.swiftkey vers=956694608
+      Update com.touchtype.swiftkey vers=956694608
+      Update com.touchtype.swiftkey vers=956694608
+      Update com.touchtype.swiftkey vers=956694608
+      Update com.google.ar.core vers=212010383
+      Update com.google.ar.core vers=212010383
+      Update com.google.ar.core vers=212010383
+      Update com.google.ar.core vers=212010383
+      Update com.google.android.webview vers=457706234
+      Update com.google.android.webview vers=457706234
+      Update com.google.android.webview vers=457706234
+      Update com.google.android.webview vers=457706234
+      Update com.google.android.apps.messaging vers=93022900
+      Update com.google.android.apps.messaging vers=93022900
+      Update com.google.android.apps.messaging vers=93022900
+      Update com.google.android.apps.messaging vers=93022900
+      Update com.google.android.googlequicksearchbox vers=301166495
+      Update com.google.android.googlequicksearchbox vers=301166495
+      Update com.google.android.googlequicksearchbox vers=301166495
+      Update com.google.android.googlequicksearchbox vers=301166495
+      Update com.google.android.projection.gearhead vers=67612934
+      Update com.google.android.projection.gearhead vers=67612934
+      Update com.google.android.projection.gearhead vers=67612934
+      Update com.google.android.projection.gearhead vers=67612934
+      Update com.google.audio.hearing.visualization.accessibility.scribe vers=54160
+      Update com.google.audio.hearing.visualization.accessibility.scribe vers=54160
+      Update com.google.audio.hearing.visualization.accessibility.scribe vers=54160
+      Update com.google.audio.hearing.visualization.accessibility.scribe vers=54160
+      Update com.microsoft.skydrive vers=2026380502
+      Update com.microsoft.skydrive vers=2026380502
+      Update com.microsoft.skydrive vers=2026380502
+      Update com.microsoft.skydrive vers=2026380502
+      Update com.google.android.as vers=4602327
+      Update com.google.android.as vers=4602327
+      Update com.google.android.as vers=4602327
+      Update com.google.android.as vers=4602327
+      Update com.google.android.tts vers=210319286
+      Update com.google.android.tts vers=210319286
+      Update com.google.android.tts vers=210319286
+      Update com.google.android.tts vers=210319286
+      Update de.axelspringer.yana.zeropage vers=14297
+      Update de.axelspringer.yana.zeropage vers=14297
+      Update de.axelspringer.yana.zeropage vers=14297
+      Update de.axelspringer.yana.zeropage vers=14297
+      Update com.netflix.mediaclient vers=35583
+      Update com.netflix.mediaclient vers=35583
+      Update com.netflix.mediaclient vers=35583
+      Update com.netflix.mediaclient vers=35583
+      Update at.stefanhuber.contactappnative vers=1
+      Update at.stefanhuber.contactappnative vers=1
+      Update at.stefanhuber.contactappnative vers=1
+      Update at.stefanhuber.contactappnative vers=1
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.instrumentation.test vers=0
+      Update at.stefanhuber.instrumentation.test vers=0
+      Update at.stefanhuber.instrumentation.test vers=0
+      Update at.stefanhuber.instrumentation.test vers=0
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.instrumentation.test vers=0
+      Update at.stefanhuber.instrumentation.test vers=0
+      Update at.stefanhuber.instrumentation.test vers=0
+      Update at.stefanhuber.instrumentation.test vers=0
+      Update org.mozilla.firefox vers=2015831131
+      Update org.mozilla.firefox vers=2015831131
+      Update org.mozilla.firefox vers=2015831131
+      Update org.mozilla.firefox vers=2015831131
+      Update com.contactappreactnative vers=1
+      Update com.contactappreactnative vers=1
+      Update com.contactappreactnative vers=1
+      Update com.contactappreactnative vers=1
+      Update com.contactappreactnative vers=1
+      Update com.contactappreactnative vers=1
+      Update com.contactappreactnative vers=1
+      Update com.contactappreactnative vers=1
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.instrumentation vers=1
+      Update at.stefanhuber.instrumentation.test vers=0
+      Update at.stefanhuber.instrumentation.test vers=0
+      Update at.stefanhuber.instrumentation.test vers=0
+      Update at.stefanhuber.instrumentation.test vers=0
+  Daily from 2021-09-08-13-52-47 to 2020-01-01-13-00-06:
+    Discharge step durations:
+      #0: +1m30s669ms to 83 (screen-on, power-save-off, device-idle-off)
+      #1: +4m18s531ms to 0 (power-save-off, device-idle-off)
+      #2: +1m30s784ms to 1 (screen-on, power-save-off, device-idle-off)
+        Discharge total time: 4h 4m 26s 100ms  (from 3 steps)
+        Discharge screen on time: 2h 31m 12s 600ms  (from 2 steps)
+    Package changes:
+      Update com.google.android.apps.restore vers=25696
+      Update com.google.android.apps.restore vers=25696
+      Update com.google.android.apps.restore vers=25696
+      Update com.google.android.apps.restore vers=25696
+      Update android.autoinstalls.config.samsung vers=1000
+      Update android.autoinstalls.config.samsung vers=1000
+      Update android.autoinstalls.config.samsung vers=1000
+      Update android.autoinstalls.config.samsung vers=1000
+      Update com.samsung.android.kgclient vers=306700000
+      Update com.samsung.android.kgclient vers=306700000
+      Update com.samsung.android.kgclient vers=306700000
+      Update com.samsung.android.kgclient vers=306700000
+      Update com.samsung.android.kgclient vers=306700000
+      Update com.samsung.android.kgclient vers=306700000
+      Update com.android.vending vers=82242510
+      Update com.android.vending vers=82242510
+      Update com.android.vending vers=82242510
+      Update com.android.vending vers=82242510
+      Update com.google.android.gms vers=213313048
+      Update com.google.android.gms vers=213313048
+      Update com.google.android.gms vers=213313048
+      Update com.google.android.gms vers=213313048
+      Update com.sec.android.app.sbrowser vers=1150247502
+      Update com.sec.android.app.sbrowser vers=1150247502
+      Update com.sec.android.app.sbrowser vers=1150247502
+      Update com.sec.android.app.sbrowser vers=1150247502
+      Update com.google.android.apps.docs vers=212643881
+      Update com.google.android.apps.docs vers=212643881
+      Update com.google.android.apps.docs vers=212643881
+      Update com.google.android.apps.docs vers=212643881
+      Update com.google.android.apps.tachyon vers=3209864
+      Update com.google.android.apps.tachyon vers=3209864
+      Update com.google.android.apps.tachyon vers=3209864
+      Update com.google.android.apps.tachyon vers=3209864
+      Update com.google.android.apps.photos vers=40575751
+      Update com.google.android.apps.photos vers=40575751
+      Update com.google.android.apps.photos vers=40575751
+      Update com.google.android.apps.photos vers=40575751
+      Update com.google.android.videos vers=42731708
+      Update com.google.android.videos vers=42731708
+      Update com.google.android.videos vers=42731708
+      Update com.google.android.videos vers=42731708
+      Update com.google.android.apps.youtube.music vers=44251240
+      Update com.google.android.apps.youtube.music vers=44251240
+      Update com.google.android.apps.youtube.music vers=44251240
+      Update com.google.android.apps.youtube.music vers=44251240
+      Update com.samsung.android.app.watchmanager vers=2121083061
+      Update com.samsung.android.app.watchmanager vers=2121083061
+      Update com.samsung.android.app.watchmanager vers=2121083061
+      Update com.samsung.android.app.watchmanager vers=2121083061
+      Update com.linkedin.android vers=152000
+      Update com.linkedin.android vers=152000
+      Update com.linkedin.android vers=152000
+      Update com.linkedin.android vers=152000
+      Update com.microsoft.office.officehubrow vers=42649030
+      Update com.microsoft.office.officehubrow vers=42649030
+      Update com.microsoft.office.officehubrow vers=42649030
+      Update com.microsoft.office.officehubrow vers=42649030
+      Update com.facebook.katana vers=0
+      Update com.facebook.katana vers=0
+      Update com.microsoft.office.outlook vers=42133814
+      Update com.microsoft.office.outlook vers=42133814
+      Update com.microsoft.office.outlook vers=42133814
+      Update com.microsoft.office.outlook vers=42133814
+      Update com.sec.android.app.popupcalculator vers=1201005000
+      Update com.sec.android.app.popupcalculator vers=1201005000
+      Update com.sec.android.app.popupcalculator vers=1201005000
+      Update com.sec.android.app.popupcalculator vers=1201005000
+      Update com.linkedin.android vers=0
+      Update com.linkedin.android vers=0
+      Update com.linkedin.android vers=0
+      Update com.linkedin.android vers=0
+      Update com.samsung.sree vers=250204000
+      Update com.samsung.sree vers=250204000
+      Update com.samsung.sree vers=250204000
+      Update com.samsung.sree vers=250204000
+      Update com.sec.android.app.shealth vers=6188005
+      Update com.sec.android.app.shealth vers=6188005
+      Update com.sec.android.app.shealth vers=6188005
+      Update com.sec.android.app.shealth vers=6188005
+      Update com.samsung.android.oneconnect vers=177021010
+      Update com.samsung.android.oneconnect vers=177021010
+      Update com.samsung.android.oneconnect vers=177021010
+      Update com.samsung.android.oneconnect vers=177021010
+      Update com.sec.android.easyMover vers=372201100
+      Update com.sec.android.easyMover vers=372201100
+      Update com.sec.android.easyMover vers=372201100
+      Update com.sec.android.easyMover vers=372201100
+      Update com.android.vending vers=82692210
+      Update com.android.vending vers=82692210
+      Update com.android.vending vers=82692210
+      Update com.android.vending vers=82692210
+      Update com.touchtype.swiftkey vers=952631344
+      Update com.touchtype.swiftkey vers=952631344
+      Update com.touchtype.swiftkey vers=952631344
+      Update com.touchtype.swiftkey vers=952631344
+      Update com.android.chrome vers=457706234
+      Update com.android.chrome vers=457706234
+      Update com.android.chrome vers=457706234
+      Update com.android.chrome vers=457706234
+  Daily from 2021-02-11-10-57-49 to 2021-09-08-13-52-47:
+    Discharge step durations:
+      #0: +1m0s523ms to 5 (power-save-off, device-idle-off)
+      #1: +30s255ms to 6 (screen-on, power-save-off, device-idle-off)
+        Discharge total time: 1h 15m 38s 900ms  (from 2 steps)
+        Discharge screen on time: 50m 25s 500ms  (from 1 steps)
+
+Statistics since last charge:
+  System starts: 0, currently on battery: true
+  Estimated battery capacity: 3880 mAh
+  Min learned battery capacity: 4000 mAh
+  Max learned battery capacity: 4000 mAh
+  Time on battery: 13s 508ms (100,0%) realtime, 13s 509ms (100,0%) uptime
+  Time on battery screen off: 0ms (0,0%) realtime, 0ms (0,0%) uptime
+  Time on battery screen doze: 0ms (0,0%)
+  Total run time: 13s 508ms realtime, 13s 509ms uptime
+  Charge time remaining: 0ms 
+  Discharge: 3.63 mAh
+  Screen off discharge: 0 mAh
+  Screen doze discharge: 0 mAh
+  Screen on discharge: 3.63 mAh
+  Device light doze discharge: 0 mAh
+  Device deep doze discharge: 0 mAh
+  Start clock time: 2021-09-17-10-17-02
+  Screen on: 1m 18s 789ms (583,3%) 0x, Interactive: 13s 508ms (100,0%)
+  Screen brightnesses:
+    dim 13s 508ms (17,1%)
+
+  CONNECTIVITY POWER SUMMARY START
+  Logging duration for connectivity statistics: 13s 508ms 
+  Cellular Statistics:
+     Cellular kernel active time: 0ms (0,0%)
+     Cellular Sleep time:  12s 646ms (93,6%)
+     Cellular Idle time:   272ms (2,0%)
+     Cellular Rx time:     849ms (6,3%)
+     Cellular Tx time:     
+       less than 0dBm:  0ms (0,0%)
+       0dBm to 8dBm:  0ms (0,0%)
+       8dBm to 15dBm:  0ms (0,0%)
+       15dBm to 20dBm:  0ms (0,0%)
+       above 20dBm:  0ms (0,0%)
+     Cellular Battery drain: 0.0291mAh
+     Cellular data received: 0B
+     Cellular data sent: 0B
+     Cellular packets received: 0
+     Cellular packets sent: 0
+     Cellular Radio Access Technology: (no activity)
+     Cellular Rx signal strength (RSRP):
+       great (greater than -98dBm):  13s 508ms (100,0%) 
+  Wifi Statistics:
+     Wifi kernel active time: 13s 508ms (100,0%)
+     WiFi Scan time:  0ms (0,0%)
+     WiFi Sleep time:  8s 626ms (63,8%)
+     WiFi Idle time:   4s 182ms (31,0%)
+     WiFi Rx time:     582ms (4,3%)
+     WiFi Tx time:     120ms (0,9%)
+     WiFi Battery drain: 0.0205mAh
+     Wifi data received: 13,18KB
+     Wifi data sent: 80,11KB
+     Wifi packets received: 81
+     Wifi packets sent: 119
+     Wifi states:
+       sta 13s 508ms (100,0%) 
+     Wifi supplicant states:
+       completed 13s 508ms (100,0%) 
+     Wifi Rx signal strength (RSSI):
+         good (-66.25dBm to -55dBm): 13s 508ms (100,0%) 
+  GPS Statistics:
+     GPS signal quality (Top 4 Average CN0):
+      poor (less than 20 dBHz): 0ms (0,0%) 
+      good (greater than 20 dBHz): 0ms (0,0%) 
+  CONNECTIVITY POWER SUMMARY END
+
+  Bluetooth total received: 0B, sent: 0B
+  Bluetooth scan time: 13s 508ms 
+     Bluetooth Idle time:   0ms (0,0%)
+     Bluetooth Rx time:     0ms (0,0%)
+     Bluetooth Tx time:     0ms (0,0%)
+
+  Speaker Statistics: (no activity)
+
+  Device battery use since last full charge
+    Amount discharged (lower bound): 0
+    Amount discharged (upper bound): 1
+    Amount discharged while screen on: 1
+    Amount discharged permil while screen on: 1
+    Amount discharged while screen off: 0
+    Amount discharged permil while screen off: 0
+    Amount discharged while screen doze: 0
+
+  Estimated power use (mAh):
+    Capacity: 3880, Typical: 4000, Computed drain: 3.32, actual drain: 0-38.8
+    Screen: 2.25 Excluded from smearing
+    Uid u0a309: 0.499 ( cpu=0.252 gpu=0.246 wifi=0.000456 ) Including smearing: 0.562 ( proportional=0.0633 )
+    Uid 1000: 0.229 ( cpu=0.229 sensor=0.00000417 ) Excluded from smearing
+    Idle: 0.126 Excluded from smearing
+    Uid 0: 0.0799 ( cpu=0.0799 ) Excluded from smearing
+    Uid 2000: 0.0489 ( cpu=0.0361 wifi=0.0128 ) Excluded from smearing
+    Uid u0a333: 0.0368 ( cpu=0.0323 wifi=0.00454 ) Including smearing: 0.0415 ( proportional=0.00467 )
+    Uid u0a243: 0.0148 ( cpu=0.0148 ) Including smearing: 0.0167 ( proportional=0.00188 )
+    Wifi: 0.00551 ( cpu=0.00426 wifi=0.00125 ) Including smearing: 0.00621 ( proportional=0.000699 )
+    Uid u0a62: 0.00394 ( cpu=0.00394 ) Excluded from smearing
+    Cell standby: 0.00375 ( radio=0.00375 ) Excluded from smearing
+    Uid u0a244: 0.00295 ( cpu=0.00295 ) Including smearing: 0.00332 ( proportional=0.000374 )
+    Uid u0a242: 0.00208 ( cpu=0.00208 ) Including smearing: 0.00235 ( proportional=0.000264 )
+    Uid 1001: 0.00200 ( cpu=0.00200 ) Excluded from smearing
+    Uid 1020: 0.00153 ( cpu=0.0000872 wifi=0.00144 ) Excluded from smearing
+    Uid 1036: 0.00131 ( cpu=0.00131 ) Excluded from smearing
+    Uid u0a182: 0.000884 ( cpu=0.000884 ) Including smearing: 0.000996 ( proportional=0.000112 )
+    Uid u0a257: 0.000809 ( cpu=0.000809 ) Including smearing: 0.000912 ( proportional=0.000103 )
+    Uid 1066: 0.000759 ( cpu=0.000759 ) Excluded from smearing
+    Uid 1021: 0.000711 ( cpu=0.000711 ) Excluded from smearing
+    Uid 1073: 0.000653 ( cpu=0.000653 ) Excluded from smearing
+    Uid 1069: 0.000325 ( cpu=0.000325 ) Excluded from smearing
+    Uid 1041: 0.000311 ( cpu=0.000311 ) Excluded from smearing
+    Uid u0a237: 0.000246 ( cpu=0.000246 ) Including smearing: 0.000278 ( proportional=0.0000313 )
+    Uid 5018: 0.000217 ( cpu=0.000217 ) Including smearing: 0.000245 ( proportional=0.0000276 )
+    Uid u0a150: 0.000192 ( cpu=0.000192 ) Including smearing: 0.000216 ( proportional=0.0000243 )
+    Uid u0a74: 0.000175 ( cpu=0.000175 ) Including smearing: 0.000198 ( proportional=0.0000222 )
+    Uid 5013: 0.000162 ( cpu=0.000162 ) Including smearing: 0.000183 ( proportional=0.0000206 )
+    Uid u0a69: 0.000156 ( cpu=0.000156 ) Including smearing: 0.000176 ( proportional=0.0000198 )
+    Uid u0a277: 0.000130 ( cpu=0.000130 ) Including smearing: 0.000146 ( proportional=0.0000165 )
+    Uid u0a240: 0.000111 ( cpu=0.000111 ) Including smearing: 0.000125 ( proportional=0.0000140 )
+    Uid u0a270: 0.0000992 ( cpu=0.0000992 ) Including smearing: 0.000112 ( proportional=0.0000126 )
+    Uid 5022: 0.0000894 ( cpu=0.0000894 ) Including smearing: 0.000101 ( proportional=0.0000114 )
+    Uid u0a143: 0.0000708 ( cpu=0.0000708 ) Including smearing: 0.0000798 ( proportional=0.00000899 )
+    Uid 1047: 0.0000706 ( cpu=0.0000706 ) Excluded from smearing
+    Bluetooth: 0.0000667 ( cpu=0.0000667 ) Including smearing: 0.0000751 ( proportional=0.00000846 )
+    Uid u0a233: 0.0000611 ( cpu=0.0000611 ) Including smearing: 0.0000689 ( proportional=0.00000775 )
+    Uid 5012: 0.0000400 ( cpu=0.0000400 ) Including smearing: 0.0000451 ( proportional=0.00000508 )
+    Uid u0a84: 0.0000400 ( cpu=0.0000400 ) Including smearing: 0.0000451 ( proportional=0.00000508 )
+    Uid u0a89: 0.0000400 ( cpu=0.0000400 ) Including smearing: 0.0000451 ( proportional=0.00000508 )
+    Uid 5555: 0.0000317 ( cpu=0.0000317 ) Including smearing: 0.0000357 ( proportional=0.00000402 )
+
+  CPU freqs: 400000 533000 650000 754000 858000 962000 1066000 1170000 1274000 1378000 1482000 1586000 1690000 1794000 1898000 2002000 2106000 2210000 533000 624000 728000 832000 936000 1040000 1144000 1248000 1352000 1456000 1560000 1664000 1768000 1872000 1976000 2080000 2184000 2288000 2392000 2496000 2600000 2704000 2808000 533000 624000 728000 832000 936000 1040000 1144000 1248000 1352000 1456000 1560000 1664000 1768000 1872000 1976000 2080000 2184000 2288000 2392000 2496000 2600000 2704000 2808000 2912000
+
+  0:
+    Total cpu time: u=119ms s=2s 320ms 
+    Total cpu time per freq: 374 96 39 65 47 28 35 1302 31 12 40 9 57 30 12 7 7 86 29 6 4 3 0 3 7 13 4 0 19 2 2 3 4 1 3 3 0 1 13 0 18 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    Proc irq/371-1590000:
+      CPU: 0ms usr + 10ms krn ; 0ms fg
+    Proc decon0-vsync:
+      CPU: 0ms usr + 30ms krn ; 0ms fg
+    Proc decon0-fsync:
+      CPU: 0ms usr + 50ms krn ; 0ms fg
+    Proc migration/2:
+      CPU: 0ms usr + 10ms krn ; 0ms fg
+    Proc ksoftirqd/6:
+      CPU: 0ms usr + 10ms krn ; 0ms fg
+    Proc ksoftirqd/3:
+      CPU: 0ms usr + 10ms krn ; 0ms fg
+    Proc ksoftirqd/2:
+      CPU: 0ms usr + 20ms krn ; 0ms fg
+    Proc ksoftirqd/1:
+      CPU: 0ms usr + 10ms krn ; 0ms fg
+    Proc ksoftirqd/0:
+      CPU: 0ms usr + 10ms krn ; 0ms fg
+    Proc kworker/u16:3-events_unbound:
+      CPU: 0ms usr + 20ms krn ; 0ms fg
+    Proc decon_hiber:
+      CPU: 0ms usr + 20ms krn ; 0ms fg
+    Proc dhd_rpm_state_t:
+      CPU: 0ms usr + 120ms krn ; 0ms fg
+    Proc simpleinteracti:
+      CPU: 0ms usr + 10ms krn ; 0ms fg
+    Proc zygote64:
+      CPU: 0ms usr + 20ms krn ; 0ms fg
+    Proc kworker/u17:2-kbase_pm_poweroff_wait:
+      CPU: 0ms usr + 10ms krn ; 0ms fg
+    Proc kworker/u17:0-mfc/butler:
+      CPU: 0ms usr + 100ms krn ; 0ms fg
+    Proc kworker/u16:0-five_hook_wq:
+      CPU: 0ms usr + 30ms krn ; 0ms fg
+    Proc kworker/6:0:
+      CPU: 0ms usr + 10ms krn ; 0ms fg
+    Proc kworker/3:5:
+      CPU: 0ms usr + 30ms krn ; 0ms fg
+    Proc kworker/3:1:
+      CPU: 0ms usr + 20ms krn ; 0ms fg
+    Proc kworker/1:2:
+      CPU: 0ms usr + 30ms krn ; 0ms fg
+    Proc kworker/1:1:
+      CPU: 0ms usr + 10ms krn ; 0ms fg
+    Proc kworker/0:3:
+      CPU: 0ms usr + 10ms krn ; 0ms fg
+    Proc decon_exit_hibe:
+      CPU: 0ms usr + 60ms krn ; 0ms fg
+    Proc rcu_preempt:
+      CPU: 0ms usr + 50ms krn ; 0ms fg
+    Proc kworker/u19:1-acpm_update_log:
+      CPU: 0ms usr + 10ms krn ; 0ms fg
+    Proc spi7:
+      CPU: 0ms usr + 20ms krn ; 0ms fg
+    Proc netd:
+      CPU: 10ms usr + 10ms krn ; 0ms fg
+    Proc init:
+      CPU: 10ms usr + 0ms krn ; 0ms fg
+    Proc tz_worker_threa:
+      CPU: 0ms usr + 30ms krn ; 0ms fg
+    Proc kworker/2:1-events:
+      CPU: 0ms usr + 30ms krn ; 0ms fg
+    Proc ueventd:
+      CPU: 80ms usr + 0ms krn ; 0ms fg
+    Proc kworker/u17:3-bcm477x_wq:
+      CPU: 0ms usr + 330ms krn ; 0ms fg
+    Proc irq/476-dhdpcie:
+      CPU: 0ms usr + 10ms krn ; 0ms fg
+    Proc kworker/0:2-events_power_efficient:
+      CPU: 0ms usr + 40ms krn ; 0ms fg
+    Proc kzerod:
+      CPU: 0ms usr + 30ms krn ; 0ms fg
+    Proc decon0:
+      CPU: 0ms usr + 780ms krn ; 0ms fg
+    Proc esgov:4:
+      CPU: 0ms usr + 220ms krn ; 0ms fg
+    Proc esgov:0:
+      CPU: 0ms usr + 140ms krn ; 0ms fg
+    Proc kworker/2:0-events:
+      CPU: 0ms usr + 10ms krn ; 0ms fg
+  1000:
+    Bluetooth Duty Scan (total actual realtime with duty): 675ms  (currently running)
+    Bluetooth Scan (total blamed realtime): 6s 754ms  (0 times) (currently running)
+    Bluetooth Scan (total actual realtime): 13s 508ms  (0 times) (currently running)
+    Bluetooth Scan Results: 0 (0 in background)
+    User activity: 5 touch
+    Wake lock *telephony-radio* realtime
+    Sensor 33: 75ms realtime (2 times)
+    Foreground for: 13s 508ms 
+    Total running: 13s 508ms 
+    Total cpu time: u=2s 927ms s=3s 625ms 
+    Total cpu time per freq: 829 186 83 141 120 101 82 2746 93 28 97 14 39 38 24 8 92 184 170 26 35 10 21 18 34 499 245 35 16 29 5 12 60 12 18 28 1 2 87 0 5 3 0 0 0 2 0 0 4 1 0 0 0 0 0 0 0 0 0 0 3 0 0 0 0
+    Proc servicemanager:
+      CPU: 20ms usr + 30ms krn ; 0ms fg
+    Proc com.sec.android.sdhms:
+      CPU: 20ms usr + 20ms krn ; 0ms fg
+    Proc android.system.suspend@1.0-service:
+      CPU: 0ms usr + 80ms krn ; 0ms fg
+    Proc android.hardware.usb@1.1-service.exynos2100:
+      CPU: 10ms usr + 0ms krn ; 0ms fg
+    Proc com.samsung.sec.android.teegris.tui_service:
+      CPU: 20ms usr + 30ms krn ; 0ms fg
+    Proc vendor.samsung.hardware.thermal@1.0-service:
+      CPU: 0ms usr + 20ms krn ; 0ms fg
+    Proc com.samsung.android.server.wifi.mobilewips:
+      CPU: 10ms usr + 0ms krn ; 0ms fg
+    Proc freecess_binder:
+      CPU: 0ms usr + 10ms krn ; 0ms fg
+    Proc android.hardware.sensors@2.0-service.multihal:
+      CPU: 0ms usr + 60ms krn ; 0ms fg
+    Proc epic:
+      CPU: 0ms usr + 10ms krn ; 0ms fg
+    Proc com.sec.imsservice:
+      CPU: 10ms usr + 0ms krn ; 0ms fg
+    Proc surfaceflinger:
+      CPU: 1s 850ms usr + 2s 80ms krn ; 0ms fg
+    Proc android.hardware.graphics.composer@2.4-service:
+      CPU: 510ms usr + 480ms krn ; 0ms fg
+    Proc system:
+      CPU: 490ms usr + 540ms krn ; 0ms fg
+    Proc hwservicemanager:
+      CPU: 10ms usr + 0ms krn ; 0ms fg
+    Proc vendor.samsung.hardware.hyper-service:
+      CPU: 10ms usr + 30ms krn ; 0ms fg
+    Proc android.hardware.power.samsung-service:
+      CPU: 0ms usr + 90ms krn ; 0ms fg
+    Proc argosd:
+      CPU: 10ms usr + 30ms krn ; 0ms fg
+    Proc heimdalld:
+      CPU: 10ms usr + 0ms krn ; 0ms fg
+  1001:
+    Wake lock *telephony-radio* realtime
+    Foreground for: 13s 508ms 
+    Total running: 13s 508ms 
+    Total cpu time: u=17ms s=29ms 
+    Total cpu time per freq: 2 0 7 0 0 0 1 1 2 0 4 1 0 0 0 0 6 2 8 0 5 0 0 0 0 2 1 1 1 3 0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    Proc com.android.phone:
+      CPU: 20ms usr + 10ms krn ; 0ms fg
+    Proc rild:
+      CPU: 10ms usr + 10ms krn ; 0ms fg
+  1002:
+    Foreground for: 13s 508ms 
+    Total running: 13s 508ms 
+    Total cpu time: u=2ms s=2ms 
+    Total cpu time per freq: 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+  1010:
+    Total cpu time: u=8ms s=117ms 
+    Total cpu time per freq: 1 0 0 5 0 0 3 64 0 0 6 0 1 0 0 0 0 7 25 2 0 4 0 1 0 2 1 1 0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    Proc android.hardware.wifi@1.0-service:
+      CPU: 0ms usr + 30ms krn ; 0ms fg
+    Proc wpa_supplicant:
+      CPU: 0ms usr + 10ms krn ; 0ms fg
+    Proc wificond:
+      CPU: 0ms usr + 70ms krn ; 0ms fg
+  1020:
+    Wi-Fi network: 3,30KB received, 0B sent (packets 6 received, 0 sent)
+    Wi-Fi network (background): 3,30KB received, 0B sent (packets 6 received, 0 sent)
+       WiFi Scan time:  0ms (0,0%)
+       WiFi Sleep time:  13s 442ms (99,4%)
+       WiFi Idle time:   0ms (0,0%)
+       WiFi Rx time:     80ms (0,6%)
+       WiFi Tx time:     0ms (0,0%)
+    Total cpu time: u=0ms s=2ms 
+    Total cpu time per freq: 2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    (nothing executed)
+  1021:
+    Total cpu time: u=5ms s=15ms 
+    Total cpu time per freq: 3 0 1 0 0 1 0 8 1 0 0 0 0 0 0 0 0 1 5 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    Proc lhd:
+      CPU: 0ms usr + 20ms krn ; 0ms fg
+  1027:
+    Foreground for: 13s 508ms 
+    Total running: 13s 508ms 
+    Total cpu time: u=0ms s=0ms 
+  1036:
+    Total cpu time: u=10ms s=29ms 
+    Total cpu time per freq: 10 3 2 0 3 2 1 7 2 0 3 0 1 2 2 0 2 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    Proc logd:
+      CPU: 20ms usr + 20ms krn ; 0ms fg
+  1041:
+    Total cpu time: u=5ms s=4ms 
+    Total cpu time per freq: 1 1 0 0 0 0 0 0 1 0 0 0 0 0 1 0 1 1 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    Proc audioserver:
+      CPU: 10ms usr + 0ms krn ; 0ms fg
+  1047:
+    Total cpu time: u=0ms s=0ms 
+    Total cpu time per freq: 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    (nothing executed)
+  1066:
+    Total cpu time: u=16ms s=5ms 
+    Total cpu time per freq: 4 1 2 1 0 1 0 3 0 1 1 0 1 0 0 1 3 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    Proc statsd:
+      CPU: 10ms usr + 10ms krn ; 0ms fg
+  1068:
+    Foreground for: 13s 508ms 
+    Total running: 13s 508ms 
+    Total cpu time: u=0ms s=0ms 
+  1069:
+    Total cpu time: u=0ms s=7ms 
+    Total cpu time per freq: 0 0 0 0 0 0 0 2 0 0 1 0 0 0 0 2 1 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    (nothing executed)
+  1073:
+    Foreground for: 13s 508ms 
+    Total running: 13s 508ms 
+    Total cpu time: u=14ms s=3ms 
+    Total cpu time per freq: 4 0 0 4 0 0 0 1 0 0 1 0 0 0 0 0 4 0 2 0 1 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    Proc com.android.networkstack.process:
+      CPU: 0ms usr + 10ms krn ; 0ms fg
+  2000:
+    Wi-Fi network: 3,48KB received, 78,31KB sent (packets 64 received, 109 sent)
+    Wi-Fi network (background): 3,48KB received, 78,31KB sent (packets 64 received, 109 sent)
+       WiFi Scan time:  0ms (0,0%)
+       WiFi Sleep time:  13s 84ms (96,7%)
+       WiFi Idle time:   0ms (0,0%)
+       WiFi Rx time:     355ms (2,6%)
+       WiFi Tx time:     87ms (0,6%)
+    Total cpu time: u=134ms s=220ms 
+    Total cpu time per freq: 17 5 2 7 4 2 0 3 2 1 12 1 2 1 9 0 33 15 11 1 0 8 0 1 2 1 4 2 0 13 0 20 0 28 4 1 1 3 22 0 118 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 13
+    Proc adbd:
+      CPU: 0ms usr + 30ms krn ; 0ms fg
+  5004:
+    Cached for: 13s 508ms 
+    Total running: 13s 508ms 
+    Total cpu time: u=0ms s=0ms 
+  5006:
+    Bluetooth Duty Scan (total actual realtime with duty): 675ms  (currently running)
+    Bluetooth Scan (total blamed realtime): 6s 754ms  (0 times) (currently running)
+    Bluetooth Scan (total actual realtime): 13s 508ms  (0 times) (currently running)
+    Bluetooth Scan (background realtime): 13s 508ms  (0 times) (currently running in background)
+    Bluetooth Scan Results: 0 (0 in background)
+    Background for: 13s 508ms 
+    Total running: 13s 508ms 
+    Total cpu time: u=0ms s=0ms 
+  5012:
+    Cached for: 13s 508ms 
+    Total running: 13s 508ms 
+    Total cpu time: u=0ms s=0ms 
+    Total cpu time per freq: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+  5013:
+    Foreground for: 13s 508ms 
+    Total running: 13s 508ms 
+    Total cpu time: u=2ms s=1ms 
+    Total cpu time per freq: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+  5018:
+    Background for: 13s 508ms 
+    Total running: 13s 508ms 
+    Total cpu time: u=0ms s=4ms 
+    Total cpu time per freq: 2 0 1 0 0 0 0 3 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    Proc com.samsung.android.bixby.agent:
+      CPU: 0ms usr + 10ms krn ; 0ms fg
+  5022:
+    Cached for: 13s 508ms 
+    Total running: 13s 508ms 
+    Total cpu time: u=2ms s=1ms 
+    Total cpu time per freq: 1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    Proc com.samsung.android.ipsgeofence:
+      CPU: 10ms usr + 0ms krn ; 0ms fg
+  5029:
+    Cached for: 13s 508ms 
+    Total running: 13s 508ms 
+    Total cpu time: u=0ms s=0ms 
+  5555:
+    Total cpu time: u=0ms s=0ms 
+    Total cpu time per freq: 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    Proc auditd:
+      CPU: 0ms usr + 10ms krn ; 0ms fg
+  u0a62:
+    Foreground for: 13s 508ms 
+    Total running: 13s 508ms 
+    Total cpu time: u=51ms s=26ms 
+    Total cpu time per freq: 3 0 1 3 2 3 2 8 5 0 1 1 1 4 0 0 0 4 5 0 2 0 1 1 1 5 9 2 1 1 0 1 6 0 0 0 0 0 5 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    Proc com.android.systemui:
+      CPU: 60ms usr + 20ms krn ; 0ms fg
+    Proc com.samsung.android.app.routines:
+      CPU: 0ms usr + 10ms krn ; 0ms fg
+  u0a69:
+    Cached for: 13s 508ms 
+    Total running: 13s 508ms 
+    Total cpu time: u=3ms s=0ms 
+    Total cpu time per freq: 3 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+  u0a74:
+    Background for: 13s 508ms 
+    Total running: 13s 508ms 
+    Total cpu time: u=1ms s=3ms 
+    Total cpu time per freq: 0 0 0 0 1 2 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    Proc com.samsung.android.app.cocktailbarservice:
+      CPU: 10ms usr + 0ms krn ; 0ms fg
+  u0a77:
+    Cached for: 13s 508ms 
+    Total running: 13s 508ms 
+    Total cpu time: u=0ms s=0ms 
+  u0a84:
+    Cached for: 13s 508ms 
+    Total running: 13s 508ms 
+    Total cpu time: u=0ms s=0ms 
+    Total cpu time per freq: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+  u0a89:
+    Cached for: 13s 508ms 
+    Total running: 13s 508ms 
+    Total cpu time: u=0ms s=0ms 
+    Total cpu time per freq: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+  u0a91:
+    Cached for: 13s 508ms 
+    Total running: 13s 508ms 
+    Total cpu time: u=0ms s=0ms 
+  u0a92:
+    Cached for: 13s 508ms 
+    Total running: 13s 508ms 
+    Total cpu time: u=0ms s=0ms 
+  u0a123:
+    Cached for: 13s 508ms 
+    Total running: 13s 508ms 
+    Total cpu time: u=0ms s=0ms 
+  u0a139:
+    Cached for: 13s 508ms 
+    Total running: 13s 508ms 
+    Total cpu time: u=0ms s=0ms 
+  u0a143:
+    Cached for: 13s 508ms 
+    Total running: 13s 508ms 
+    Total cpu time: u=0ms s=0ms 
+    Total cpu time per freq: 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+  u0a149:
+    Cached for: 13s 508ms 
+    Total running: 13s 508ms 
+    Total cpu time: u=0ms s=0ms 
+  u0a150:
+    Foreground for: 13s 508ms 
+    Total running: 13s 508ms 
+    Total cpu time: u=5ms s=3ms 
+    Total cpu time per freq: 0 0 0 0 1 1 0 0 3 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    Proc com.sec.android.app.launcher:
+      CPU: 0ms usr + 10ms krn ; 0ms fg
+  u0a160:
+    Background for: 13s 508ms 
+    Total running: 13s 508ms 
+  u0a182:
+    Background for: 13s 508ms 
+    Total running: 13s 508ms 
+    Total cpu time: u=21ms s=9ms 
+    Total cpu time per freq: 11 0 1 1 2 1 0 9 1 0 0 0 0 0 0 0 0 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    Proc com.samsung.android.honeyboard:
+      CPU: 0ms usr + 30ms krn ; 0ms fg
+  u0a209:
+    Cached for: 13s 508ms 
+    Total running: 13s 508ms 
+    Total cpu time: u=0ms s=0ms 
+    Proc com.samsung.android.sm.policy:
+      CPU: 0ms usr + 10ms krn ; 0ms fg
+  u0a224:
+    Cached for: 13s 508ms 
+    Total running: 13s 508ms 
+    Total cpu time: u=0ms s=0ms 
+  u0a233:
+    Background for: 14ms 
+    Cached for: 13s 494ms 
+    Total running: 13s 508ms 
+    Total cpu time: u=1ms s=0ms 
+    Total cpu time per freq: 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+  u0a234:
+    Foreground for: 13s 508ms 
+    Total running: 13s 508ms 
+    Total cpu time: u=0ms s=0ms 
+  u0a237:
+    Background for: 13s 508ms 
+    Total running: 13s 508ms 
+    Total cpu time: u=3ms s=4ms 
+    Total cpu time per freq: 0 0 0 0 0 0 0 1 0 0 3 0 0 0 0 0 0 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    Proc com.google.android.ims:
+      CPU: 10ms usr + 0ms krn ; 0ms fg
+  u0a238:
+    Cached for: 13s 508ms 
+    Total running: 13s 508ms 
+    Total cpu time: u=0ms s=0ms 
+  u0a240:
+    Cached for: 13s 508ms 
+    Total running: 13s 508ms 
+    Total cpu time: u=2ms s=1ms 
+    Total cpu time per freq: 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+  u0a242:
+    Foreground for: 13s 508ms 
+    Total running: 13s 508ms 
+    Total cpu time: u=17ms s=14ms 
+    Total cpu time per freq: 0 0 0 0 0 1 0 1 1 0 0 0 0 0 1 0 0 8 1 0 0 0 0 0 0 2 5 0 0 0 1 0 1 1 0 1 0 0 5 0 0 5 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    Proc com.google.process.gservices:
+      CPU: 0ms usr + 10ms krn ; 0ms fg
+    Proc com.google.android.gms.persistent:
+      CPU: 30ms usr + 0ms krn ; 0ms fg
+  u0a243:
+    Foreground for: 13s 508ms 
+    Total running: 13s 508ms 
+    Total cpu time: u=269ms s=55ms 
+    Total cpu time per freq: 0 0 0 0 1 4 1 13 2 3 0 0 0 6 12 10 1 248 0 0 0 0 0 0 0 0 5 0 0 0 2 1 1 2 0 2 0 1 13 0 1 1 0 0 0 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    Proc com.google.android.googlequicksearchbox:interactor:
+      CPU: 40ms usr + 20ms krn ; 0ms fg
+    Proc com.google.android.googlequicksearchbox:search:
+      CPU: 50ms usr + 10ms krn ; 0ms fg
+    Apk com.google.android.googlequicksearchbox:
+      Service com.google.android.apps.gsa.publicsearch.PublicSearchService:
+        Created for: 0ms uptime
+        Starts: 0, launches: 1
+  u0a244:
+    Foreground for: 7ms 
+    Background for: 6ms 
+    Cached for: 13s 495ms 
+    Total running: 13s 508ms 
+    Total cpu time: u=57ms s=11ms 
+    Total cpu time per freq: 0 0 0 0 0 0 0 3 0 0 0 0 0 0 0 1 0 68 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    Proc com.google.android.apps.tachyon:
+      CPU: 10ms usr + 0ms krn ; 0ms fg
+    Apk com.google.android.apps.tachyon:
+      Service com.google.android.apps.tachyon.clientapi.ClientApiService:
+        Created for: 0ms uptime
+        Starts: 0, launches: 1
+  u0a249:
+    Cached for: 13s 508ms 
+    Total running: 13s 508ms 
+    Total cpu time: u=0ms s=0ms 
+  u0a257:
+    Cached for: 13s 508ms 
+    Total running: 13s 508ms 
+    Total cpu time: u=8ms s=16ms 
+    Total cpu time per freq: 2 0 1 0 2 0 4 5 0 0 6 0 0 0 0 0 0 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    Proc com.google.android.youtube.player:
+      CPU: 0ms usr + 10ms krn ; 0ms fg
+    Proc com.google.android.youtube:
+      CPU: 10ms usr + 0ms krn ; 0ms fg
+  u0a258:
+    Cached for: 13s 508ms 
+    Total running: 13s 508ms 
+    Total cpu time: u=0ms s=0ms 
+  u0a259:
+    Cached for: 13s 508ms 
+    Total running: 13s 508ms 
+  u0a267:
+    Foreground for: 13s 508ms 
+    Total running: 13s 508ms 
+    Total cpu time: u=0ms s=0ms 
+  u0a270:
+    Cached for: 13s 508ms 
+    Total running: 13s 508ms 
+    Total cpu time: u=1ms s=0ms 
+    Total cpu time per freq: 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+  u0a271:
+    Cached for: 13s 508ms 
+    Total running: 13s 508ms 
+    Total cpu time: u=0ms s=0ms 
+  u0a272:
+    Foreground for: 13s 508ms 
+    Total running: 13s 508ms 
+    Total cpu time: u=0ms s=0ms 
+  u0a277:
+    Background for: 13s 508ms 
+    Total running: 13s 508ms 
+    Total cpu time: u=0ms s=4ms 
+    Total cpu time per freq: 0 0 0 0 1 1 0 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+  u0a309:
+    Wi-Fi network: 72B received, 100B sent (packets 1 received, 1 sent)
+       WiFi Scan time:  0ms (0,0%)
+       WiFi Sleep time:  13s 520ms (99,9%)
+       WiFi Idle time:   0ms (0,0%)
+       WiFi Rx time:     13ms (0,1%)
+       WiFi Tx time:     3ms (0,0%)
+    Foreground activities: 13s 508ms realtime (0 times) (running)
+    Top for: 13s 508ms 
+    Total running: 13s 508ms 
+    Total cpu time: u=3s 543ms s=1s 518ms 
+    Total cpu time per freq: 3 1 0 2 6 5 2 8 0 0 3 5 0 5 8 0 8 2 428 116 48 38 21 120 116 2542 1218 99 67 30 24 19 28 8 2 7 1 3 40 0 8 1 0 0 0 0 0 0 10 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    #0 GPU time(ms): 10s 686ms 
+    Total GPU time(ms): 10s 686ms 
+    Proc com.ulangi:
+      CPU: 3s 760ms usr + 1s 590ms krn ; 0ms fg
+  u0a330:
+    Cached for: 13s 508ms 
+    Total running: 13s 508ms 
+  u0a333:
+    Wi-Fi network: 6,33KB received, 1,71KB sent (packets 10 received, 9 sent)
+       WiFi Scan time:  0ms (0,0%)
+       WiFi Sleep time:  13s 375ms (98,8%)
+       WiFi Idle time:   0ms (0,0%)
+       WiFi Rx time:     133ms (1,0%)
+       WiFi Tx time:     29ms (0,2%)
+    Foreground services: 12s 460ms realtime (1 times)
+    Fg Service for: 12s 460ms 
+    Cached for: 82ms 
+    Total running: 12s 542ms 
+    Total cpu time: u=377ms s=130ms 
+    Total cpu time per freq: 20 6 3 3 3 3 2 18 1 0 6 1 18 1 15 2 38 17 5 3 1 0 1 27 16 90 40 4 2 13 5 6 53 3 4 1 9 1 75 0 0 2 0 0 0 0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0
+    Proc at.stefanhuber.instrumentation:
+      CPU: 0ms usr + 0ms krn ; 0ms fg
+      1 starts
+  u0a334:
+    Cached for: 13s 508ms 
+    Total running: 13s 508ms 
+
+Total cpu time reads: 0
+Batched cpu time reads: 0
+Batching Duration (min): 92
+All UID cpu time reads since the later of device start or stats reset: 16
+UIDs removed since the later of device start or stats reset: 0

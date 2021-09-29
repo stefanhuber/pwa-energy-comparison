@@ -1,0 +1,26 @@
+{
+  "name": "contactapp-stencil",
+  "private": true,
+  "version": "0.0.1",
+  "description": "contactapp-stencil",
+  "license": "MIT",
+  "files": [
+    "dist/"
+  ],
+  "scripts": {
+    "build": "stencil build",
+    "start": "stencil build --dev --watch --serve",
+    "test": "stencil test --spec --e2e",
+    "test.watch": "stencil test --spec --e2e --watch",
+    "generate": "stencil generate"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^3.2.2",
+    "@capacitor/core": "^3.2.2",
+    "@ionic/core": "^5.1.1",
+    "@stencil/core": "^1.13.0"
+  },
+  "dependencies": {
+    "@capacitor/android": "^3.2.2"
+  }
+}

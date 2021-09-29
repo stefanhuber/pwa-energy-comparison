@@ -42,7 +42,7 @@
 
 #### Sample apps
 
-The sample apps and instrumentation project are compiled, signed and put into the `apk` folder.  To install all apps inside the `apk` folder run the `prepare.py` script. This requires an adb connected device.
+The sample apps and instrumentation project are compiled, signed and put into the `apk` folder.  To install all apps inside the `apk` folder run the `prepare.py` script. This requires an adb connected device. The `.apk` files can be downloaded compiled and signed from the [GitHub releases](https://github.com/stefanhuber/pwa-energy-comparison/releases/tag/1.0.0).
 
 ```bash
 > python prepare.py

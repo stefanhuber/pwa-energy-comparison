@@ -203,7 +203,7 @@ def parse_file(f):
                 if m:
                     result['total_drain'] = float(m.group(1))
 
-                m = re.match("^ +Uid ([a-z0-9]+): ([0-9.]+).*", line)
+                m = re.match("^ +(?:Uid|UID) ([a-z0-9]+): ([0-9.]+).*", line)
                 if m:
                     result["processes"][m.group(1)] = {
                         "mAh": float(m.group(2)),

@@ -1,6 +1,7 @@
 import subprocess
 import threading
 import time
+import re
 
 
 class Vmstat:
@@ -116,3 +117,32 @@ def get_connected_device(ip="", port=7777):
 def kill_all():
     # kill all background processes
     subprocess.call("adb shell am kill-all")
+
+def get_ip():
+    net_output = subprocess.check_output(
+        "adb shell ip -f inet addr show wlan0",
+        shell=True,
+        universal_newlines=True
+    )
+    return re.search(r"inet \d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}", net_output).group()[5:]
+
+def connect_wifi(ip_address):
+    subprocess.call('adb tcpip 5555')
+    subprocess.call('adb connect {}'.format(ip_address))
+
+def get_wifi_connected_device():
+    devices = subprocess.check_output(
+        "adb devices",
+        shell=True,
+        universal_newlines=True
+    )
+    match = re.search(r"(\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}):(\d{1,5})", devices)
+
+    if match:
+        return {
+            "ip": match.group(1),
+            "port": match.group(2)
+        }
+
+def get_device_model():
+    return subprocess.check_output("adb shell getprop ro.product.model", shell=True, universal_newlines=True).strip()

@@ -12,7 +12,7 @@ import helper.adb as adb
 parser = argparse.ArgumentParser(description='Swipe Test')
 parser.add_argument('-i', '--ip', type=str, help='IP-Address of adb-connected Android device', default="")
 parser.add_argument('-a', '--app', type=str, help='Name of app', default="test")
-parser.add_argument('-p', '--port', type=str, help='Port of adb-connected Android device', default="7777")
+parser.add_argument('-p', '--port', type=str, help='Port of adb-connected Android device', default="")
 parser.add_argument('-n', '--count', type=int, help='Number of executions of a test per app', default=1)
 parser.add_argument('-s', '--start', type=int, help='Start index of test', default=1)
 

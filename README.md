@@ -1,4 +1,4 @@
-# Energy comparison of PWA and other mobile development approaches
+# A Comparative Study on the Energy Consumption of Progressive Web Apps
 
 ## Project setup
 
@@ -23,6 +23,7 @@
  - **figures**: generated figures for paper
  - **helper**: python helper functions, e.g. for using `adb` or `batterystats`
  - **Analysis.ipynb**: Notebook with statistical analysis and generation of figures
+ - **connect.py**: Script to try to establish Wi-Fi connection with USB-connected device  
  - **prepare.py**: Setup script for preparing a connected device 
  - **start_battery_test.py**: Script to start the complete battery test for sample apps on a connected device
  - **start_single_battery_test.py**: Script to start a single app battery test for a sample app on a connected device
@@ -34,9 +35,11 @@
 
  - connect mobile device via USB cable to computer
  - get IP-address form mobile device: `adb shell ip address` and search for `wlan0` 
- - enable port 7777 for tcp/ip connection mode `adb tcpip 7777` on mobile device
- - connect to mobile device via Wi-Fi: `adb connect "IP-ADDRESS":7777` (adb connect 192.168.2.100:7777)
+ - enable port 5555 for tcp/ip connection mode `adb tcpip 5555` on mobile device
+ - connect to mobile device via Wi-Fi: `adb connect "IP-ADDRESS":5555` (adb connect 192.168.2.100:5555)
  - unplug USB cable from mobile device
+
+> The `connect.py` script automatizes this procedure
  
 ### Prepare device for testing sample apps
 

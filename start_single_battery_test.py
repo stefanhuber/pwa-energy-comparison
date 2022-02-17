@@ -10,6 +10,11 @@ available_apps = [
         "data": "https://contactapp.stefanhuber.at"
     },
     {
+        "name": "chrome",
+        "implicit": True,
+        "data": "https://contactapp.stefanhuber.at"
+    },
+    {
         "name": "native",
         "implicit": False,
         "pkg": "at.stefanhuber.contactappnative",
@@ -49,14 +54,14 @@ available_apps = [
 apps = []
 
 parser = argparse.ArgumentParser(description='Alternative Android Battery Test')
-parser.add_argument('-a', '--app', type=str, help='Name of app', default="firefox")
-parser.add_argument('-i', '--ip', type=str, help='IP-Address of adb-connected Android device', default="")
-parser.add_argument('-p', '--port', type=str, help='Port of adb-connected Android device', default="7777")
+parser.add_argument('-a', '--app', type=str, help='Name of app', default="chrome")
+#parser.add_argument('-i', '--ip', type=str, help='IP-Address of adb-connected Android device', default="")
+#parser.add_argument('-p', '--port', type=str, help='Port of adb-connected Android device', default="")
 parser.add_argument('-n', '--count', type=int, help='Number of executions of a test per app', default=1)
 parser.add_argument('-s', '--start', type=int, help='Start index of test', default=1)
 
 args = parser.parse_args()
-device = adb.get_connected_device(args.ip, args.port)
+device = adb.get_device_model()
 count = args.count
 start = args.start
 app = args.app
